@@ -1,0 +1,15 @@
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/Aoc2023.06
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/Aoc2023.06.deps.json
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/Aoc2023.06.runtimeconfig.json
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/Aoc2023.06.dll
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/ref/Aoc2023.06.dll
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/bin/Debug/net6.0/Aoc2023.06.pdb
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.csproj.AssemblyReference.cache
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.AssemblyInfoInputs.cache
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.AssemblyInfo.cs
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.csproj.CoreCompileInputs.cache
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.dll
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/ref/Aoc2023.06.dll
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.pdb
+/Users/igorkalders/Projects/Aoc/Aoc2023.06/obj/Debug/net6.0/Aoc2023.06.genruntimeconfig.cache

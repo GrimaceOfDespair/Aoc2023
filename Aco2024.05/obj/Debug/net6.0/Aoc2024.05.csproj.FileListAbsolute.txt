@@ -1,0 +1,15 @@
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/Aoc2024.05
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/Aoc2024.05.deps.json
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/Aoc2024.05.runtimeconfig.json
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/Aoc2024.05.dll
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/ref/Aoc2024.05.dll
+/Users/igorkalders/Projects/Aoc/Aco2024.05/bin/Debug/net6.0/Aoc2024.05.pdb
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.csproj.AssemblyReference.cache
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.AssemblyInfoInputs.cache
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.AssemblyInfo.cs
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.csproj.CoreCompileInputs.cache
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.dll
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/ref/Aoc2024.05.dll
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.pdb
+/Users/igorkalders/Projects/Aoc/Aco2024.05/obj/Debug/net6.0/Aoc2024.05.genruntimeconfig.cache
